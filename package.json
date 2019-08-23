@@ -29,7 +29,7 @@
   "devDependencies": {
     "@episodehunter/logger": "4.1.2",
     "@types/aws-lambda": "8.10.24",
-    "@types/jest": "24.0.11",
+    "@types/jest": "24.0.18",
     "@types/node": "11.12.2",
     "jest": "24.5.0",
     "simple-spy": "2.2.1",
