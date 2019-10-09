@@ -1,3 +1,7 @@
+See: https://github.com/episodehunter/episodehunter/tree/master/packages/kingsguard
+
+
+
 # Kingsguard
 
 > Wrap a aws (lambda) function and provide it with a logger. Also capture a timeout error before it happens.
